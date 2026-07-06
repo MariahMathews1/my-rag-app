@@ -20,13 +20,13 @@ I started with a sample dataset about drone fundamentals, then swapped in my rea
      then update the paths below to match. -->
 
 **Initial test via FastAPI's auto-generated docs page:**
-![FastAPI docs test](docs/screenshots/fastapi-docs-test.png)
+![FastAPI docs test](backend/docs/screenshots/fastapi-docs-test.png)
 
 **Working chat UI with retrieved context expanded:**
-![Chat UI with sources](docs/screenshots/chat-ui-sources.png)
+![Chat UI with sources](backend/docs/screenshots/chat-ui-sources.png)
 
 **Answering correctly from real course notes:**
-![Geology notes test](docs/screenshots/geology-notes-test.png)
+![Geology notes test](backend/docs/screenshots/geology-notes-test.png)
 
 ## Tech stack
 
