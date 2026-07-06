@@ -1,4 +1,4 @@
-# Drone & Geology Knowledge Base — My First RAG App
+#Geology Knowledge Base — My First RAG App
 
 This is my first hands-on build of a **RAG (Retrieval-Augmented Generation)** application — a chatbot that answers questions using my own documents instead of just general AI knowledge.
 
