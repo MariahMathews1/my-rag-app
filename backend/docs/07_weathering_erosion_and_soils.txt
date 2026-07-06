@@ -1,0 +1,75 @@
+TOPIC: Weathering, Erosion, and Soils
+
+WEATHERING
+Weathering breaks down rock at or near Earth’s surface.
+
+Mechanical weathering
+Breaks rock into smaller pieces without changing mineral composition.
+
+Examples:
+- Frost wedging
+- Root growth
+- Salt crystal growth
+- Thermal expansion and contraction
+- Abrasion
+- Pressure release and exfoliation
+
+Chemical weathering
+Changes minerals into new substances or dissolves them.
+
+Examples:
+- Hydrolysis
+- Oxidation
+- Dissolution
+- Carbonation
+
+FACTORS CONTROLLING WEATHERING
+- Climate
+- Rock type and mineral composition
+- Surface area
+- Soil and biological activity
+- Time
+- Slope and drainage
+
+EROSION
+Erosion removes and transports weathered material.
+
+Main agents:
+- Running water
+- Wind
+- Glaciers
+- Waves
+- Gravity
+
+DEPOSITION
+Deposition occurs when transported sediment settles.
+- Faster-moving water can carry larger particles.
+- When velocity decreases, larger particles settle first.
+- Sorting describes how similar sediment grains are in size.
+
+MASS WASTING
+Downslope movement caused mainly by gravity.
+
+Types:
+- Rockfall
+- Slump
+- Landslide
+- Mudflow
+- Debris flow
+- Creep
+
+SOIL
+Soil is a mixture of mineral particles, organic matter, water, air, and living organisms.
+
+Common soil horizons:
+- O horizon: organic material
+- A horizon: topsoil
+- E horizon: zone of leaching
+- B horizon: zone of accumulation
+- C horizon: partly weathered parent material
+- R horizon: bedrock
+
+KEY DISTINCTION
+Weathering breaks material down.
+Erosion moves the material.
+Deposition drops the material.

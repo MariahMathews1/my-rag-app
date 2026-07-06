@@ -1,0 +1,162 @@
+TOPIC: Mineral Properties and Identification
+
+WHAT IS A MINERAL?
+A mineral is a naturally occurring, inorganic solid with an orderly crystalline structure and a definite chemical composition or limited compositional range.
+
+MAIN IDENTIFICATION PROPERTIES
+
+Luster
+Describes how light reflects from a mineral surface.
+- Metallic: looks like polished metal
+- Nonmetallic: glassy, pearly, earthy, silky, resinous, or dull
+
+Color
+Color can help but is often unreliable because impurities may change a mineral’s appearance.
+
+Streak
+The color of a mineral in powdered form.
+- Tested by rubbing the mineral on an unglazed porcelain streak plate
+- Especially useful for metallic minerals
+
+Hardness
+Resistance to scratching, measured with the Mohs scale.
+
+Mohs hardness scale:
+1. Talc
+2. Gypsum
+3. Calcite
+4. Fluorite
+5. Apatite
+6. Orthoclase feldspar
+7. Quartz
+8. Topaz
+9. Corundum
+10. Diamond
+
+Useful comparisons:
+- Fingernail: about 2.5
+- Copper coin: about 3
+- Glass: about 5.5
+- Steel nail: around 5 to 6
+
+Cleavage
+The tendency to break along flat planes of weak atomic bonding.
+Important descriptions:
+- One direction
+- Two directions at about 90 degrees
+- Two directions at about 60 and 120 degrees
+- Three directions at 90 degrees, called cubic cleavage
+- Three directions not at 90 degrees, called rhombohedral cleavage
+
+Fracture
+Breakage not controlled by cleavage.
+- Conchoidal fracture creates smooth curved surfaces, as in quartz
+- Uneven fracture creates rough irregular surfaces
+
+Specific Gravity
+A comparison of mineral density to the density of water.
+Minerals such as galena feel unusually heavy for their size.
+
+Other Properties
+- Magnetism
+- Reaction with dilute acid
+- Elastic sheets
+- Taste
+- Smell
+- Striations
+- Crystal habit
+
+COMMON MINERALS AND DIAGNOSTIC FEATURES
+
+Quartz
+- Nonmetallic, glassy
+- Hardness 7
+- No cleavage
+- Conchoidal fracture
+
+Orthoclase Feldspar
+- Usually pink, salmon, or white
+- Hardness 6
+- Two cleavages at right angles
+
+Plagioclase Feldspar
+- Commonly white to gray
+- Hardness 6
+- Two cleavages at right angles
+- Fine striations may appear on cleavage surfaces
+
+Calcite
+- Hardness 3
+- Three cleavages not at right angles
+- Reacts strongly with dilute hydrochloric acid
+
+Halite
+- Hardness about 2.5
+- Cubic cleavage
+- Colorless or white crystals
+- Salty taste, though tasting lab samples is generally discouraged
+
+Gypsum
+- Hardness 2
+- Scratched by a fingernail
+- One prominent cleavage
+- Commonly white or colorless
+
+Muscovite
+- Light-colored mica
+- One perfect cleavage
+- Splits into thin, transparent, elastic sheets
+
+Biotite
+- Dark mica
+- One perfect cleavage
+- Splits into thin, dark, elastic sheets
+
+Olivine
+- Olive-green glassy grains
+- Hardness greater than glass
+- No cleavage
+
+Hornblende
+- Dark green to black
+- Two cleavages at about 60 and 120 degrees
+
+Pyroxene
+- Dark green to black
+- Two cleavages at nearly 90 degrees
+
+Magnetite
+- Metallic to submetallic
+- Black streak
+- Strongly magnetic
+- High specific gravity
+
+Hematite
+- Metallic or earthy
+- Reddish-brown streak
+- Important iron ore
+
+Galena
+- Metallic silver-gray
+- Very high specific gravity
+- Cubic cleavage
+- Gray streak
+
+Pyrite
+- Metallic brassy-yellow color
+- Greenish-black streak
+- Harder than chalcopyrite
+- Often forms cubes
+
+Chalcopyrite
+- Metallic brassy-yellow
+- Greenish-black streak
+- Softer than pyrite
+
+MINERAL IDENTIFICATION STRATEGY
+1. Decide whether luster is metallic or nonmetallic.
+2. Test hardness.
+3. Examine cleavage or fracture.
+4. Check streak.
+5. Use color, density, magnetism, acid reaction, or special features.
+6. Match the complete property set instead of relying on one property alone.

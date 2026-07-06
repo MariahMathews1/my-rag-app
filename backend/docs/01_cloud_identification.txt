@@ -1,0 +1,131 @@
+TOPIC: Cloud Identification and Classification
+
+OVERVIEW
+Clouds are classified mainly by height above the ground and by appearance or texture. Cloud names often use roots that describe their level or form.
+
+COMMON CLOUD-NAME ROOTS
+- cirro-: high-level cloud; often thin and icy
+- alto-: middle-level cloud
+- strato-: layered or sheet-like cloud
+- cumulo-: heaped, puffy, or vertically developed cloud
+- nimbo- or nimbus: precipitation-producing cloud
+
+HIGH-LEVEL CLOUDS
+High clouds generally occur above about 20,000 feet and are composed mainly of ice crystals.
+
+Cirrus
+- Thin, wispy, feathery, or fibrous
+- Often appears as hooks, bands, or streaks
+- Can be an early sign of an approaching warm front or weather system
+
+Cirrostratus
+- Thin, widespread, veil-like layer
+- Sun or Moon may appear through the cloud
+- Often produces a halo because light is refracted by ice crystals
+
+Cirrocumulus
+- Small white patches, ripples, or rows
+- Individual cloud elements are very small
+- Sometimes called a “mackerel sky”
+
+MIDDLE-LEVEL CLOUDS
+Middle clouds usually have bases from about 6,500 to 20,000 feet. They may contain water droplets, ice crystals, or both.
+
+Altostratus
+- Gray or blue-gray sheet covering much of the sky
+- Sun may appear as a dim or watery disk
+- Often indicates an approaching warm front
+- Can thicken and lower into nimbostratus
+
+Altocumulus
+- Rounded white or gray patches
+- Individual elements are larger than cirrocumulus
+- May appear in rows or groups
+- Morning altocumulus with vertical growth can signal instability later in the day
+
+LOW-LEVEL CLOUDS
+Low clouds generally occur below about 6,500 feet.
+
+Stratus
+- Uniform gray or whitish layer
+- Low, flat, and featureless
+- May produce drizzle, light snow grains, or mist
+- Fog is essentially stratus at ground level
+
+Stratocumulus
+- Low gray or white rolls, patches, or rounded clumps
+- Cloud elements are arranged in a layer
+- Usually has more texture than stratus
+
+Nimbostratus
+- Dark, thick, widespread precipitation cloud
+- Produces steady rain or snow
+- Usually has little visible vertical development
+- The Sun is hidden
+
+VERTICALLY DEVELOPED CLOUDS
+
+Cumulus
+- Isolated puffy clouds with flat bases and sharp outlines
+- Usually associated with fair weather when small
+- Grow upward when warm, moist air rises
+
+Cumulus congestus
+- Towering cumulus with strong vertical growth
+- May produce showers
+- Can develop into cumulonimbus
+
+Cumulonimbus
+- Large thunderstorm cloud
+- Lightning or thunder confirms cumulonimbus
+- May have an anvil-shaped top
+- Can produce heavy rain, hail, strong winds, and tornadoes
+
+OTHER CLOUD FEATURES
+
+Wall cloud
+- Localized lowering beneath a thunderstorm’s rain-free base
+- Associated with the storm updraft
+- Rotation may indicate tornado potential
+
+Shelf cloud
+- Low horizontal wedge along a thunderstorm outflow boundary
+- Often signals strong gusty winds
+- Usually not the part of the storm that produces tornadoes
+
+Mammatus
+- Pouch-like features hanging beneath a cloud, often an anvil
+- Common near strong thunderstorms but do not themselves cause severe weather
+
+Fractus or scud
+- Ragged, low cloud fragments
+- Often form beneath storms or near fronts
+- Can look threatening but are not automatically dangerous
+
+Contrail
+- Narrow cloud formed when aircraft exhaust condenses in cold upper-level air
+
+QUICK IDENTIFICATION PROCESS
+1. Is lightning seen or thunder heard?
+   - Yes: cumulonimbus.
+2. Are individual puffy cloud towers clearly visible?
+   - Yes: cumulus or towering cumulus.
+3. Is the cloud mainly a uniform or broken layer?
+   - If the Sun or Moon is a bright patch: cirrostratus or altostratus.
+   - If the layer is dark and producing steady precipitation: nimbostratus.
+   - If the layer is very low and gray: stratus.
+4. Are there white wispy fibers?
+   - Yes: cirrus.
+5. Are there many small rounded elements?
+   - Tiny, grain-like elements: cirrocumulus.
+   - Medium rounded elements: altocumulus.
+   - Large low rounded elements: stratocumulus.
+
+KEY COMPARISONS
+- Cirrocumulus elements are the smallest.
+- Altocumulus elements are medium-sized.
+- Stratocumulus elements are the largest and lowest.
+- Stratus is smooth and layered.
+- Cumulus is puffy and vertically developed.
+- Nimbostratus gives steady precipitation.
+- Cumulonimbus gives thunderstorms.

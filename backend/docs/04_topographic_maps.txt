@@ -1,0 +1,105 @@
+TOPIC: Reading USGS Topographic Maps
+
+PURPOSE
+A topographic map represents the shape, elevation, and human and natural features of the land.
+
+QUADRANGLE MAPS
+A common USGS map is the 7.5-minute quadrangle at a scale of 1:24,000.
+
+Typical map information includes:
+- Quadrangle name
+- Publication and photorevision dates
+- Scale
+- Contour interval
+- Latitude and longitude along map edges
+- Benchmarks and spot elevations
+- Roads, buildings, streams, forests, and other features
+
+SCALE
+A fractional scale of 1:24,000 means:
+- 1 unit on the map equals 24,000 of the same units on the ground
+- 1 inch on the map equals 24,000 inches on the ground
+- 24,000 inches equals 2,000 feet
+- About 2.64 inches on the map equals 1 mile
+
+CONTOUR LINES
+A contour line connects points of equal elevation.
+
+Contour interval:
+- The vertical elevation difference between adjacent contour lines
+- If the contour interval is 10 feet, each neighboring contour differs by 10 feet
+
+Index contours:
+- Heavier, labeled contour lines
+- Commonly every fifth contour
+- With a 10-foot interval, index contours are 50 feet apart
+
+READING SLOPE
+- Closely spaced contours indicate steep slopes.
+- Widely spaced contours indicate gentle slopes.
+- Very few contours indicate nearly flat terrain.
+
+HILLS AND DEPRESSIONS
+- Closed concentric contours usually indicate a hill.
+- Elevation increases toward the center of a hill.
+- Closed contours with inward hachure marks indicate a depression.
+
+STREAM DIRECTION
+When contour lines cross a stream, they form a V shape.
+- The V points upstream.
+- Water flows in the opposite direction.
+
+ELEVATION BETWEEN CONTOURS
+If a point lies between the 420-foot and 430-foot contours:
+- Elevation is greater than 420 feet
+- Elevation is less than 430 feet
+
+BENCHMARKS AND SPOT ELEVATIONS
+Benchmark:
+- Precisely surveyed elevation
+- Often labeled “BM” followed by an elevation
+
+Spot elevation:
+- Surveyed elevation at a specific point
+- Often printed as a number, sometimes in italics
+
+HIGH AND LOW POINTS
+High point:
+- Look for the highest closed contour, benchmark, or spot elevation
+- Express as a range when the exact summit is unlabeled
+
+Low point:
+- Often occurs where a stream exits the map
+- Usually expressed as a range between two contour elevations
+
+LATITUDE AND LONGITUDE
+
+Latitude
+- Measures distance north or south of the equator
+- Lines of latitude run east-west
+- 1 degree equals 60 minutes
+- 1 minute equals 60 seconds
+
+Longitude
+- Measures distance east or west of the Prime Meridian
+- Lines of longitude run north-south
+- Most locations in the continental United States are west longitude
+
+MAP SYMBOL EXAMPLES
+- Green shading: forested land
+- Blue: water features
+- Brown: contour lines
+- Black: many cultural features such as buildings
+- Purple or lavender on older maps: photorevisions
+- Black square: building or house
+- Open square or outlined structure: may indicate a barn or other structure
+- Dashed lines: trails, unimproved roads, boundaries, or other mapped features depending on the legend
+
+COMMON TOPOGRAPHIC MAP TASKS
+- Identify the quadrangle name
+- Record publication and revision dates
+- Record scale and contour interval
+- Find longitude on the east edge
+- Mark a location
+- Estimate its elevation
+- Find and describe the high and low points

@@ -1,0 +1,84 @@
+TOPIC: Plate Tectonics
+
+CORE IDEA
+Earth’s rigid outer shell is broken into tectonic plates that move over the weaker asthenosphere.
+
+EARTH LAYERS RELEVANT TO PLATE TECTONICS
+
+Lithosphere
+- Rigid outer layer
+- Includes the crust and uppermost mantle
+- Broken into tectonic plates
+
+Asthenosphere
+- Weak, ductile part of the upper mantle beneath the lithosphere
+- Flows slowly and allows plates to move
+
+PLATE-MOTION DRIVERS
+- Slab pull: a dense oceanic slab sinks and pulls the rest of the plate
+- Ridge push: elevated oceanic lithosphere moves away from a mid-ocean ridge
+- Mantle convection: heat-driven circulation contributes to plate motion
+
+DIVERGENT BOUNDARIES
+Plates move apart.
+
+Oceanic divergence:
+- Forms mid-ocean ridges
+- Magma rises and creates new oceanic crust
+- Produces shallow earthquakes and basaltic volcanism
+
+Continental divergence:
+- Stretches and thins continental crust
+- Creates rift valleys
+- May eventually open a new ocean basin
+
+CONVERGENT BOUNDARIES
+Plates move toward one another.
+
+Oceanic-continental convergence:
+- Denser oceanic plate subducts
+- Produces a trench and continental volcanic arc
+- Generates earthquakes from shallow to deep
+
+Oceanic-oceanic convergence:
+- One oceanic plate subducts
+- Produces a trench and volcanic island arc
+
+Continental-continental convergence:
+- Neither continent subducts easily
+- Crust thickens and forms large mountain belts
+- Produces strong earthquakes but limited volcanism
+
+TRANSFORM BOUNDARIES
+- Plates slide horizontally past one another
+- Crust is neither created nor destroyed
+- Earthquakes are common and usually shallow
+- Example: San Andreas Fault
+
+HOT SPOTS
+A hot spot is a long-lived source of magma beneath a plate.
+- A moving plate can create a chain of volcanoes
+- Volcano ages generally increase away from the active hot spot
+
+SEAFLOOR SPREADING
+- New oceanic crust forms at mid-ocean ridges
+- Magnetic stripes on both sides of a ridge record reversals in Earth’s magnetic field
+- Ocean crust becomes older away from the ridge
+
+PLATE-TECTONIC EVIDENCE
+- Matching continental coastlines
+- Fossil correlations across oceans
+- Matching rock units and mountain belts
+- Paleoclimate evidence
+- Global earthquake and volcano patterns
+- Seafloor magnetic stripes
+- Age pattern of oceanic crust
+
+KEY LANDFORMS
+- Mid-ocean ridge
+- Rift valley
+- Deep-ocean trench
+- Volcanic arc
+- Island arc
+- Folded mountain belt
+- Transform fault

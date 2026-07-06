@@ -1,0 +1,82 @@
+TOPIC: Rocks and the Rock Cycle
+
+THREE MAIN ROCK GROUPS
+- Igneous
+- Sedimentary
+- Metamorphic
+
+IGNEOUS ROCKS
+Igneous rocks form when molten rock cools and solidifies.
+
+Intrusive igneous rocks
+- Cool slowly below the surface
+- Usually have large visible crystals
+- Example: granite
+
+Extrusive igneous rocks
+- Cool quickly at or near the surface
+- Usually have small crystals or glassy texture
+- Example: basalt
+
+Common igneous textures:
+- Coarse-grained
+- Fine-grained
+- Porphyritic
+- Glassy
+- Vesicular
+- Pyroclastic
+
+SEDIMENTARY ROCKS
+Sedimentary rocks form from accumulated sediment, chemical precipitation, or biological material.
+
+Clastic sedimentary rocks
+- Made from fragments of older rocks
+- Classified largely by grain size
+- Examples: conglomerate, sandstone, shale
+
+Chemical sedimentary rocks
+- Form when dissolved minerals precipitate
+- Examples: rock salt and some limestone
+
+Biochemical or organic sedimentary rocks
+- Form from remains of organisms
+- Examples: fossiliferous limestone and coal
+
+Lithification:
+- Compaction presses sediment together
+- Cementation binds grains with precipitated minerals
+
+METAMORPHIC ROCKS
+Metamorphic rocks form when preexisting rock is changed by heat, pressure, and chemically active fluids without completely melting.
+
+Foliated metamorphic rocks
+- Minerals align in layers or bands
+- Common sequence with increasing metamorphic grade:
+  shale → slate → phyllite → schist → gneiss
+
+Nonfoliated metamorphic rocks
+- Lack a layered texture
+- Marble forms from limestone
+- Quartzite forms from quartz sandstone
+
+METAMORPHISM TYPES
+Contact metamorphism
+- Caused mainly by heat near an igneous intrusion
+
+Regional metamorphism
+- Occurs over large areas during mountain building
+- Involves strong heat and pressure
+
+ROCK CYCLE
+Any rock type can change into another through geologic processes.
+
+Examples:
+- Weathering and erosion produce sediment.
+- Burial, compaction, and cementation create sedimentary rock.
+- Heat and pressure create metamorphic rock.
+- Melting creates magma.
+- Cooling and crystallization create igneous rock.
+- Uplift exposes buried rocks to weathering.
+
+KEY IDEA
+The rock cycle is not a single circular path. Rocks can follow many different pathways depending on geologic conditions.

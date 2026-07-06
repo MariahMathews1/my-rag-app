@@ -1,0 +1,63 @@
+TOPIC: Geologic Time and Relative Dating
+
+GEOLOGIC TIME
+Earth history is divided into eons, eras, periods, epochs, and ages.
+
+Major divisions:
+- Precambrian: most of Earth’s history
+- Paleozoic Era
+- Mesozoic Era
+- Cenozoic Era
+
+RELATIVE DATING
+Relative dating determines the order of events without assigning exact numerical ages.
+
+Principle of Superposition
+In an undeformed sequence of sedimentary rocks:
+- Oldest layers are at the bottom
+- Youngest layers are at the top
+
+Original Horizontality
+Sediments are generally deposited in nearly horizontal layers.
+
+Lateral Continuity
+Sedimentary layers originally extend sideways until they thin out or encounter a barrier.
+
+Cross-Cutting Relationships
+A fault or intrusion is younger than the rocks it cuts.
+
+Inclusions
+Rock fragments included inside another rock are older than the surrounding rock.
+
+Faunal Succession
+Fossil organisms occur in a recognizable order through time.
+
+UNCONFORMITIES
+An unconformity represents missing geologic time caused by erosion or nondeposition.
+
+Angular unconformity
+- Tilted or folded layers below
+- Younger horizontal layers above
+
+Disconformity
+- Erosion surface between parallel sedimentary layers
+
+Nonconformity
+- Sedimentary rock over igneous or metamorphic rock
+
+ABSOLUTE DATING
+Absolute dating estimates a numerical age.
+
+Radiometric dating:
+- Uses predictable radioactive decay
+- Parent isotopes decay into daughter products
+- Half-life is the time required for half of the parent atoms to decay
+
+FOSSILS
+Index fossils are especially useful for correlation when they:
+- Were geographically widespread
+- Existed for a relatively short time
+- Are easy to recognize
+
+KEY IDEA
+Relative dating establishes sequence. Radiometric dating provides numerical ages.

@@ -1,0 +1,107 @@
+TOPIC: Earthquakes, Seismic Waves, and Epicenter Location
+
+EARTHQUAKE BASICS
+An earthquake occurs when stored elastic energy is suddenly released as rocks break or slip along a fault.
+
+Focus or Hypocenter
+- The point inside Earth where rupture begins
+
+Epicenter
+- The point on Earth’s surface directly above the focus
+
+Fault
+- A fracture or zone of fractures along which movement has occurred
+
+SEISMIC WAVES
+
+P Waves
+- Primary waves
+- Fastest seismic waves
+- Compress and expand material in the direction of travel
+- Can travel through solids, liquids, and gases
+
+S Waves
+- Secondary waves
+- Slower than P waves
+- Move material perpendicular to the direction of travel
+- Can travel only through solids
+
+Surface Waves
+- Travel along Earth’s surface
+- Usually cause the strongest shaking and most structural damage
+- Include Love waves and Rayleigh waves
+
+USING P-S ARRIVAL TIMES
+P waves arrive first because they travel faster. S waves arrive later. The time difference between their arrivals increases with distance from the earthquake.
+
+General process:
+1. Record the P-wave arrival time.
+2. Record the S-wave arrival time.
+3. Subtract to find the S-P interval.
+4. Use a travel-time graph to convert the interval into distance.
+5. Repeat for at least three seismograph stations.
+
+TRIANGULATION
+Each station gives a distance to the epicenter, not a direction.
+
+To locate the epicenter:
+- Draw a circle around each station.
+- Set each circle radius equal to that station’s calculated distance.
+- The point where three circles intersect is the estimated epicenter.
+
+Why three stations are needed:
+- One station gives a circle of possible locations.
+- Two stations usually give two possible intersections.
+- Three stations identify one best location.
+
+EXAMPLE STATION-DISTANCE DATA
+A classroom lab may provide distances from a suspected epicenter to stations such as:
+- Bellingham
+- Edmonton
+- Pasadena
+- Honolulu
+
+These distances are plotted using the map scale and a compass. The intersection of the plotted circles marks the epicenter.
+
+WAVE VELOCITY
+Velocity is calculated as:
+
+velocity = distance / time
+
+Example:
+- Convert travel time to seconds.
+- Divide distance in kilometers by time in seconds.
+- Compare the result to known seismic velocities through different rock types.
+
+Typical interpretation:
+- Faster velocities often occur in denser, more rigid rocks.
+- P-wave speed varies with mineral composition, density, temperature, pressure, and rock structure.
+
+MAGNITUDE AND INTENSITY
+
+Magnitude
+- Measures the energy released by an earthquake
+- One value is assigned to the earthquake
+- Modern reports commonly use moment magnitude
+
+Intensity
+- Describes observed shaking and damage at a particular location
+- Varies from place to place
+- Depends on distance, ground conditions, and building construction
+
+EARTHQUAKE HAZARDS
+- Ground shaking
+- Surface rupture
+- Liquefaction
+- Landslides
+- Tsunamis
+- Fires and infrastructure damage
+
+PLATE-TECTONIC SETTINGS
+- Convergent boundaries can produce very large earthquakes.
+- Transform boundaries produce shallow earthquakes from sideways plate motion.
+- Divergent boundaries commonly produce shallow earthquakes.
+- Intraplate earthquakes can occur away from active plate boundaries.
+
+KEY SUMMARY
+An earthquake epicenter is located by comparing P- and S-wave arrival times at multiple stations and triangulating the calculated distances.
